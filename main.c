@@ -10,7 +10,7 @@ int main(void)
 if  (n>=0)
     {
     for (i=1;i<=n;i+=2)
-      g = g + loop;//
+      g = g + i;//
     
     
     }
